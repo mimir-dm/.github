@@ -21,8 +21,4 @@ Mimir is a desktop application that helps Dungeon Masters run D&D 5e campaigns. 
 
 ## Status
 
-Mimir is in active development. Currently supporting D&D 5e (2014 rules).
-
-## License
-
-GPL-3.0
+Mimir is in active development.
