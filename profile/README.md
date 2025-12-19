@@ -12,6 +12,11 @@ Mimir is a desktop application that helps Dungeon Masters run D&D 5e campaigns. 
 - **AI Assistant** — Natural language tools for quick lookups and character creation
 - **Offline First** — Your data stays on your machine
 
+## Links
+
+- [Documentation](https://mimir-dm.github.io)
+- [Download Resources](https://github.com/mimir-dm/resources/releases)
+
 ## Repositories
 
 | Repo | Description |
