@@ -15,14 +15,13 @@ Mimir is a desktop application that helps Dungeon Masters run D&D 5e campaigns. 
 ## Links
 
 - [Documentation](https://mimir-dm.github.io)
-- [Download Resources](https://github.com/mimir-dm/resources/releases)
+
 
 ## Repositories
 
 | Repo | Description |
 |------|-------------|
 | [mimir](https://github.com/mimir-dm/mimir) | Main application (Tauri + Vue + Rust) |
-| [resources](https://github.com/mimir-dm/resources) | Book data files for import |
 
 ## Status
 
